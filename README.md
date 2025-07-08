@@ -18,7 +18,7 @@ Built with [Streamlit](https://streamlit.io/) for an interactive, no-code experi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/college-feedback-classifier.git
+git clone https://github.com/Somil1109/college-feedback-classifier.git
 cd college-feedback-classifier
 ```
 
